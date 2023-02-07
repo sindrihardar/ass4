@@ -1,0 +1,1 @@
+java -cp target/helloworld-1.0-SNAPSHOT.jar is.hi.sih123.hbv202g.ass4.App
