@@ -32,7 +32,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>3.1.0</version>
         <configuration>
-          <mainClass>is.hi.cs.helloworld.App</mainClass>
+          <mainClass>is.hi.sih123.hbv202g.ass4.App</mainClass>
           <arguments>
             <argument>argument1</argument>
             <argument>argument2</argument>
